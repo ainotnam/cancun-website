@@ -1,1 +1,1 @@
-Sitemap: https://ainotnam.github.io/test/sitemap.xml
+Sitemap: https://ainotnam.github.io/cancun-website/sitemap.xml
