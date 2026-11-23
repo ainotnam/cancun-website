@@ -8,6 +8,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: publications.qmd
+        text: Publications
+      - href: events.qmd
+        text: Events
 
 
 format:
