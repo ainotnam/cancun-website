@@ -5,6 +5,12 @@ title: "Publications"
 
 Scientific publications resulting from the CANCUN project.
 
+- "CoAdapt: An LLM-based Framework for Adaptive Collaborative Perception in IIoT Robotic Swarms"
+  Houssam Hajj Hassan, Antonia Maria Masucci, Lynda Zitoune, Salah Eddine Elayoubi
+  Best Paper Award IEEE ACSOS 2026 (7th IEEE International Conference on Autonomic Computing and Self-Organizing Systems)
+
+
+
 ## Conference Papers
 
 ## Journal Articles
