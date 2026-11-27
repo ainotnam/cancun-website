@@ -2,14 +2,10 @@
 ---
 title: "Events"
 ---
+- Project Start Date: March 15, 2025
 
-## Upcoming Events
+- Kick-off Meeting: May 13, 2025
 
-Information about upcoming CANCUN workshops, conferences and dissemination activities.
+- First-Year Meeting: April 13, 2026
 
-## Past Events
 
-- Project meetings
-- Scientific workshops
-- Conferences
-- Dissemination activities
